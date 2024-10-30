@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SGIV/static/css/main.ca32e0e3.css",
+    "main.js": "/SGIV/static/js/main.81de3ca8.js",
+    "static/media/bodega.jpg": "/SGIV/static/media/bodega.155090eedceac58bce68.jpg",
+    "static/media/jake.jpg": "/SGIV/static/media/jake.704f6db09b6f0d097ef3.jpg",
+    "index.html": "/SGIV/index.html",
+    "main.ca32e0e3.css.map": "/SGIV/static/css/main.ca32e0e3.css.map",
+    "main.81de3ca8.js.map": "/SGIV/static/js/main.81de3ca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca32e0e3.css",
+    "static/js/main.81de3ca8.js"
+  ]
+}
